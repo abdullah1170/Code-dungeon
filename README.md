@@ -1,7 +1,7 @@
 #  Health-Care Web-App
 
 
-Welcome to my Portfolio. Feel free to view comment my code projects. 
+Welcome to my Portfolio. Feel free to view, comment or download my code. 
 This project is a model website gives overall heath guidance to the patient. 
 
 It is a web –based application featuring almost all the features which a Health-care institute would have on their website.  This project provides services to the customers by delivering the basic services for the health care on their fingertips. The customers can access many features including Online Appointments booking and Video Appointments with Options to pay their medical bills online. 
