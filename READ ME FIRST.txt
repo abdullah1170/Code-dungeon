@@ -1,0 +1,22 @@
+
+** TO EXECUTE THE PROJECT , PLEASE FOLLOW THE FOLLWING INSTRUCTION
+
+## YOU WILL NEED
+	@ BROWSER ( CHROME RECOMMENDED)
+	@ XAMPP CONSOLE INSTALLED ON YOUR COMPUTER
+	@ TEXT EDITOR
+	
+## DOWNLOAD THIS WHOLE FILE INTO THE XAMPP/HTDOC DIRECTORY
+## OPEN THE phpmyadmin IN THE BROWSER. (localhost:8080/phpmyadmin)
+## IMPORT THE 'clinic_database.sql ' file in the phpmyadmin ENGINE
+## RUN THE INDEX FILE IN THE BROWSER
+## IN THE ADRESS BAR, REMOVE EVERYTHING BEFORE /kcclinic/INDEX.php
+## TYPE IN ' localhost:[your computer port_no]  ' before /kcclinic/INDEX.php.
+	example: http://localhost:8080/kcclinic/index.php
+
+
+
+
+
+** THIS PROJECT IS CREATED BY MOHAMMED ABDULLA 
+** abdullah1170@gmail.com
